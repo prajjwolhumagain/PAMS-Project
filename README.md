@@ -21,3 +21,13 @@ mvn exec:java -Dexec.mainClass="Main"
 ## Submission
 
 Fork this repo, complete it, and push to GitHub. Then share your GitHub link.
+
+
+## Screenshots
+1. Running application and viewing the outputs
+   ![Running application](images/test_run1.png)
+
+
+2. Running unit test cases
+   ![Test Results](images/test_run2.png)
+
